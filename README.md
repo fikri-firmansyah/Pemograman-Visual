@@ -1,2 +1,2 @@
-# PROGRAM-PERTAMA-GUI-NETBEANS
+# Pemograman Visual
 Program GUI
